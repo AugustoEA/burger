@@ -1,3 +1,8 @@
+CREATE TABLE burgers (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(60) NOT NULL,
+    devoured BOOLEAN DEFAULT false
+);
 
 INSERT INTO burgers (burger_name) VALUES ("HAMBURGER");
 INSERT INTO burgers (burger_name) VALUES ("CHEESEBURGER");
