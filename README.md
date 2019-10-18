@@ -4,7 +4,7 @@ With this app, you can log and see all the kinds of burgers we have on the Burge
 
 Also, you can add new burgers to the database, using the "Add a burger" form.
 
-![Burger](public\assets\img\Burger.png)
+![Burger](public/assets/img/Burger.png)
 
 ##Built using:  VS Code
                 JavaScript
