@@ -6,12 +6,12 @@ Also, you can add new burgers to the database, using the "Add a burger" form.
 
 ![Burger](public/assets/img/Burger.png)
 
-##Built using:  VS Code
-                JavaScript
-                Node.Js
-                Express-Handlebars
-                MySQL
-                JAWSDB
+##Built using:  -VS Code;
+                -JavaScript;
+                -Node.Js;
+                -Express-Handlebars;
+                -MySQL;
+                -JAWSDB;
 
 ##Deployed at: https://augusto-burger.herokuapp.com/
 
